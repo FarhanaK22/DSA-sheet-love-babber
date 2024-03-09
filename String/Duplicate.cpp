@@ -26,7 +26,7 @@ void find_dup(string s)
 }
 int main()
 {
-    string s= "Geekforgeeks";
+    string s= "Geek for gEeks";
     find_dup(s);
     return 0;
 }
